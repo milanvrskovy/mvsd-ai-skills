@@ -11,6 +11,7 @@ Skills are designed to be minimal and purposeful, solving one problem.
 | Skill | Description | Compatible with |
 |-------|-------------|-----------------|
 | [priority-check](./skills/priority-check/) | Rates your current chat or project against your personal priority tiers. A grounding signal for people with ADHD, FOMO, or a tendency to over-invest in low-value work. | Claude.ai, Claude Code |
+| [reasoning-trail](./skills/reasoning-trail/) | Generates a concise, reviewer-optimised PR description by extracting decisions and reasoning from the current conversation. | Claude.ai, Claude Code |
 
 ---
 

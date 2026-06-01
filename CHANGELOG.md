@@ -5,6 +5,13 @@ Versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.1.0] - 2026-06-01
+
+### Added
+- `reasoning-trail` skill v1.0.0 -- generates a concise, reviewer-optimised PR description from conversation context; extracts decisions and reasoning into a structured markdown file
+
+---
+
 ## [1.0.0] - 2026-05-20
 
 ### Added
